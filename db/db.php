@@ -7,7 +7,7 @@
  */
 
 const DB_User = 'root';
-const DB_Pass = 'root';
+const DB_Pass = '227100';
 
 $pdo = new PDO('mysql:host=127.0.0.1;dbname=WeatherApp', DB_User, DB_Pass, [
     PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION

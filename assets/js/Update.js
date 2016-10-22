@@ -226,151 +226,151 @@ Update.prototype.chooseWeatherImg = function (code) {
     code = parseInt(code);
     switch (code){
         case 0:
-            path =  "assets/weatherimg/cloudyrainy.png";
+            path =  "weatherimg/cloudyrainy.png";
             break;
         case 1:
-            path =  "assets/weatherimg/cloudyrainy.png";
+            path =  "weatherimg/cloudyrainy.png";
             break;
         case 2:
-            path =  "assets/weatherimg/cloudyrainy.png";
+            path =  "weatherimg/cloudyrainy.png";
             break;
         case 3:
-            path =  "assets/weatherimg/cloudyrainy.png";
+            path =  "weatherimg/cloudyrainy.png";
             break;
         case 4:
-            path =  "assets/weatherimg/cloudyrainy.png";
+            path =  "weatherimg/cloudyrainy.png";
             break;
         case 5:
-            path =  "assets/weatherimg/cloudyrainy.png";
+            path =  "weatherimg/cloudyrainy.png";
             break;
         case 6:
-            path =  "assets/weatherimg/rainy.png";
+            path =  "weatherimg/rainy.png";
             break;
         case 7:
-            path =  "assets/weatherimg/cloudyrainy.png";
+            path =  "weatherimg/cloudyrainy.png";
             break;
         case 8:
-            path =  "assets/weatherimg/cloudyrainy.png";
+            path =  "weatherimg/cloudyrainy.png";
             break;
         case 9:
-            path =  "assets/weatherimg/cloudyrainy.png";
+            path =  "weatherimg/cloudyrainy.png";
             break;
         case 10:
-            path =  "assets/weatherimg/cloudyrainy.png";
+            path =  "weatherimg/cloudyrainy.png";
             break;
         case 11:
-            path =  "assets/weatherimg/rainy.png";
+            path =  "weatherimg/rainy.png";
             break;
         case 12:
-            path =  "assets/weatherimg/rainy.png";
+            path =  "weatherimg/rainy.png";
             break;
         case 13:
-            path =  "assets/weatherimg/cloudyrainy.png";
+            path =  "weatherimg/cloudyrainy.png";
             break;
         case 14:
-            path =  "assets/weatherimg/cloudyrainy.png";
+            path =  "weatherimg/cloudyrainy.png";
             break;
         case 15:
-            path =  "assets/weatherimg/cloudyrainy.png";
+            path =  "weatherimg/cloudyrainy.png";
             break;
         case 16:
-            path =  "assets/weatherimg/cloudyrainy.png";
+            path =  "weatherimg/cloudyrainy.png";
             break;
         case 17:
-            path =  "assets/weatherimg/cloudyrainy.png";
+            path =  "weatherimg/cloudyrainy.png";
             break;
         case 18:
-            path =  "assets/weatherimg/rainy.png";
+            path =  "weatherimg/rainy.png";
             break;
         case 19:
-            path =  "assets/weatherimg/cloudy.png";
+            path =  "weatherimg/cloudy.png";
             break;
         case 20:
-            path =  "assets/weatherimg/cloudy.png";
+            path =  "weatherimg/cloudy.png";
             break;
         case 21:
-            path =  "assets/weatherimg/cloudy.png";
+            path =  "weatherimg/cloudy.png";
             break;
         case 22:
-            path =  "assets/weatherimg/cloudy.png";
+            path =  "weatherimg/cloudy.png";
             break;
         case 23:
-            path =  "assets/weatherimg/cloudy.png";
+            path =  "weatherimg/cloudy.png";
             break;
         case 24:
-            path =  "assets/weatherimg/cloudy.png";
+            path =  "weatherimg/cloudy.png";
             break;
         case 25:
-            path =  "assets/weatherimg/cloudy.png";
+            path =  "weatherimg/cloudy.png";
             break;
         case 26:
-            path =  "assets/weatherimg/cloudy.png";
+            path =  "weatherimg/cloudy.png";
             break;
         case 27:
-            path =  "assets/weatherimg/cloudy.png";
+            path =  "weatherimg/cloudy.png";
             break;
         case 28:
-            path =  "assets/weatherimg/cloudy.png";
+            path =  "weatherimg/cloudy.png";
             break;
         case 29:
-            path =  "assets/weatherimg/cloudy.png";
+            path =  "weatherimg/cloudy.png";
             break;
         case 30:
-            path =  "assets/weatherimg/cloudy.png";
+            path =  "weatherimg/cloudy.png";
             break;
         case 31:
-            path =  "assets/weatherimg/sunnycloudy.png";
+            path =  "weatherimg/sunnycloudy.png";
             break;
         case 32:
-            path =  "assets/weatherimg/sunnycloudy.png";
+            path =  "weatherimg/sunnycloudy.png";
             break;
         case 33:
-            path =  "assets/weatherimg/sunnycloudy.png";
+            path =  "weatherimg/sunnycloudy.png";
             break;
         case 34:
-            path =  "assets/weatherimg/sunnycloudy.png";
+            path =  "weatherimg/sunnycloudy.png";
             break;
         case 35:
-            path =  "assets/weatherimg/cloudyrainy.png";
+            path =  "weatherimg/cloudyrainy.png";
             break;
         case 36:
-            path =  "assets/weatherimg/sunnycloudy.png";
+            path =  "weatherimg/sunnycloudy.png";
             break;
         case 37:
-            path =  "assets/weatherimg/rainy.png";
+            path =  "weatherimg/rainy.png";
             break;
         case 38:
-            path =  "assets/weatherimg/rainy.png";
+            path =  "weatherimg/rainy.png";
             break;
         case 39:
-            path =  "assets/weatherimg/rainy.png";
+            path =  "weatherimg/rainy.png";
             break;
         case 40:
-            path =  "assets/weatherimg/rainy.png";
+            path =  "weatherimg/rainy.png";
             break;
         case 41:
-            path =  "assets/weatherimg/rainy.png";
+            path =  "weatherimg/rainy.png";
             break;
         case 42:
-            path =  "assets/weatherimg/rainy.png";
+            path =  "weatherimg/rainy.png";
             break;
         case 43:
-            path =  "assets/weatherimg/rainy.png";
+            path =  "weatherimg/rainy.png";
             break;
         case 44:
-            path =  "assets/weatherimg/rainy.png";
+            path =  "weatherimg/rainy.png";
             break;
         case 45:
-            path =  "assets/weatherimg/rainy.png";
+            path =  "weatherimg/rainy.png";
             break;
         case 46:
-            path =  "assets/weatherimg/rainy.png";
+            path =  "weatherimg/rainy.png";
             break;
         case 47:
-            path =  "assets/weatherimg/rainy.png";
+            path =  "weatherimg/rainy.png";
             break;
         case 3200:
-            path =  "assets/weatherimg/sunnycloudy.png";
+            path =  "weatherimg/sunnycloudy.png";
             break;
     }
 
