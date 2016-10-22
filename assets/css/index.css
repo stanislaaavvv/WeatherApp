@@ -1,0 +1,155 @@
+html {
+    width:661px;
+}
+
+body{
+    margin:0;
+    width:100%;
+    text-align: center;
+    color:#878787;
+}
+
+#container {
+    width:100%;
+    background-color: #FFFFFF;
+    margin:20px;
+    border-radius: 5px;
+}
+
+#dropdownmenus {
+    margin-bottom: 20px;
+}
+
+p {
+    margin:0;
+}
+
+button {
+    display: block;
+    margin:10px auto;
+    font-weight: 900;
+}
+select {
+    font-weight: 500;
+}
+
+button,select {
+    color: #878787;
+    border-color: #4cae4c;
+    outline: none;
+    border-radius: 20px;
+    padding:5px;
+}
+
+#favourites {
+    width: 164.545px;
+}
+
+#weatherData {
+    overflow: hidden;
+    border: 1px solid rgb(233, 233, 233);
+    border-radius: 5px;
+}
+
+#information {
+    overflow: hidden;
+    padding: 0 20px;
+    margin-bottom:100px;
+}
+
+.weather-img  {
+    width: 80px;
+    position: relative;
+    top: 10px;
+    left: 0px;
+}
+
+.forecast-img {
+    width:45px;
+}
+
+.temperature {
+    display: inline-block;
+    font-size: 61px;
+    color: black;
+    padding: 0 3px;
+}
+
+#unitF {
+    color:#4221b1 ;
+}
+
+#unitC {
+    color:#50332e;
+}
+
+#dummyData {
+    position: relative;
+    left: 360px;
+    bottom: 70px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.data {
+    margin:50px 0;
+}
+
+.data span {
+    margin: -3px;
+    position: relative;
+    top: -32px;
+    font-size: 18px;
+}
+
+.label {
+    margin:35px 0 -40px;
+    text-align: left;
+}
+
+.city {
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.day , .forecast {
+    font-size:20px;
+}
+
+.data {
+    text-align: left;
+}
+
+.daily-forecast {
+    display: block;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.dayofweek , .maxT , .minT {
+    font-size:14px;
+}
+
+.maxT {
+    color:#888888;
+}
+
+.minT {
+    color:#bababa;
+}
+
+.dailyweather {
+    display: inline-block;
+    float:left;
+    margin:0;
+    width:12%;
+    height:80px;
+}
+
+.dailyweather p:nth-child(3) {
+    margin:-14px;
+}
+
+#city-names:hover, #insert:hover, #favourites:hover, #unitF:hover, #unitC:hover, .dailyweather:hover,  .data  span:nth-child(4):hover{
+    cursor: pointer;
+}

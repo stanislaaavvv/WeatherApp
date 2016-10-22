@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="assets/js/ajax.js"></script>
+    <script type="text/javascript" src="assets/js/Update.js"></script>
+    <script type="text/javascript" src="assets/js/Event.js"></script>
+    <link rel="stylesheet" href="assets/css/index.css" type="text/css">
+</head>
+<body>
+<div id="container">
+    <div id="dropdownmenus">
+        <p>SELECT CITY</p>
+        <select id="city-names">
+            <option value=""></option>
+        </select>
+        <button id="insert">ADD</button>
+        <p>FAVOURITE</p>
+        <select id="favourites">
+            <option value=""></option>
+        </select>
+    </div>
+    <div id="weatherData">
+    </div>
+</div>
+
+<script>
+    var option;
+
+    //Fetch all
+    for (let i = 0; i < cities.length; i++) {
+        option = document.createElement('option');
+        option.innerHTML = cities[i];
+        option.id = i;
+        option.className = 'changeValues';
+        document.querySelector('select').appendChild(option);
+    }
+
+</script>
+
+</body>
+</html>
